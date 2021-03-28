@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. 
-If you found value in something I have created, please feel free to give me a shout out [@kevlawton](https://twitter.com/kevlawton/) or give some ♥ via [mail](mailto:kevin.lawton@nyu.edu). Feel free to reach out in case you want to just get in touch also.
+I am a Software Engineer, turned Technical Business Analyst, turned Project Manager, turned Program Manager, turned Startup multi-hat all-arounder. 
 
+I enjoy entrepreneurial fast-moving Startup and Enterprise teams.  
+
+<!-- If you found value in something I have created, please feel free to give me a shout out [@kevlawton](https://twitter.com/kevlawton/) or give some ♥ via [mail](mailto:kevin.lawton@nyu.edu). Feel free to reach out in case you want to just get in touch also.
+ -->
 <p align='center'>
 <a href="https://www.linkedin.com/in/lawtonkevin/"><img height="30" src="https://github.com/kevlawton/kevlawton/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/kevlawton"><img height="30" src="https://github.com/kevlawton/kevlawton/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
@@ -28,4 +31,5 @@ If you found value in something I have created, please feel free to give me a sh
 
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevlawton&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/kevlawton/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevlawton&layout=compact&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevlawton&theme=tokyonight&count_private=true)](https://github.com/kevlawton/github-readme-stats)
+
