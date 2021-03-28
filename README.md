@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**kevlawton/kevlawton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. 
+If you found value in something I have created, please feel free to give me a shout out [@kevlawton](https://twitter.com/kevlawton/) or give some ♥ via [mail](mailto:kevin.lawton@nyu.edu). Feel free to reach out in case you want to just get in touch also.
 
-Here are some ideas to get you started:
+<p align='center'>
+<a href="https://www.linkedin.com/in/lawtonkevin/"><img height="30" src="https://github.com/kevlawton/kevlawton/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/kevlawton"><img height="30" src="https://github.com/kevlawton/kevlawton/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="mailto:kevin.lawton@nyu.edu"><img height="30" src="https://github.com/kevlawton/kevlawton/blob/master/mail.png?raw=true"></a>
+<a href="https://mytrashcode.com"><img height="30" src="https://github.com/kevlawton/kevlawton/blob/master/blog.png?raw=true"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Digital Footprints 🌱
+
+<!-- #### Few self-built live tools i use everyday :
+* Feedback/Chat platform : [Namelss](https://namelss.com)
+* Url-shortener : [Chootu](https://chootu.netlify.app/)
+* Kanban task tracking board: [Kanbang](https://kanbang-d1e70.web.app/) -->
+
+### What i am learning/working on these days
+   - Using efficient system design for quick launches </li>
+   - Snorkeling in Dart/Flutter deep end </li>
+   - Debating GCP vs Firebase vs Amplify </li>
+   - Founding <a href="https://stonkleague.com">StonkLeague!</a> </li>
+   - Achieved the "wide"</li>
+   - Forever chasing the "deep"</li>
+
+
+[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevlawton&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/kevlawton/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevlawton&layout=compact&hide_border=true)
