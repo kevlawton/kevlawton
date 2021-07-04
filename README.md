@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I am a Software Engineer, turned Technical Business Analyst, turned Project Manager, turned Program Manager, turned Startup multi-hat all-arounder. 
-
-I enjoy entrepreneurial fast-moving Startup and Enterprise teams.  
+Wearing many hats to help my teams launch quickly and efficiently. I enjoy entrepreneurial Startups and intrapreneurial Enterprise teams. 
 
 <!-- If you found value in something I have created, please feel free to give me a shout out [@kevlawton](https://twitter.com/kevlawton/) or give some ♥ via [mail](mailto:kevin.lawton@nyu.edu). Feel free to reach out in case you want to just get in touch also.
  -->
