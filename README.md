@@ -24,7 +24,7 @@ Wearing many hats to help my teams launch quickly and efficiently. I enjoy entre
 
 ### What I am learning/working on these days
    - Using efficient system design for quick launches </li>
-   - Vue3 vs Blazor Webassembly C# </li>
+   - Vue3 vs Blazor WebAssembly C# </li>
    - Azure vs GCP vs AWS </li>
    - Build vs Buy: Evaluating so...many...UI toolkits
    - Engineering at <a href="https://stonkleague.com">StonkLeague!</a> </li>
