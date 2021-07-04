@@ -22,15 +22,13 @@ Wearing many hats to help my teams launch quickly and efficiently. I enjoy entre
 * Kanban task tracking board: [Kanbang](https://kanbang-d1e70.web.app/) 
 * -->
 
-### What i am learning/working on these days
+### What I am learning/working on these days
    - Using efficient system design for quick launches </li>
-   - Snorkeling in Dart/Flutter deep end </li>
-   - Debating GCP vs Firebase vs Amplify </li>
-   - Founding <a href="https://stonkleague.com">StonkLeague!</a> </li>
-   - Achieved the "wide"</li>
-   - Forever chasing the "deep"</li>
-
-
+   - Vue3 vs Blazor Webassembly C# </li>
+   - Azure vs GCP vs AWS </li>
+   - Build vs Buy: Evaluating so...many...UI toolkits
+   - Engineering at <a href="https://stonkleague.com">StonkLeague!</a> </li>
+  
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevlawton&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/kevlawton/github-readme-stats)
 
 <!-- 
