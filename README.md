@@ -13,14 +13,8 @@ Wearing many hats to help my teams launch quickly and efficiently. I enjoy entre
 </p>
 -->
 
-### My Digital Footprints 🌱
-
-<!-- 
-#### Few self-built live tools i use everyday :
-* Feedback/Chat platform : [Namelss](https://namelss.com)
-* Url-shortener : [Chootu](https://chootu.netlify.app/)
-* Kanban task tracking board: [Kanbang](https://kanbang-d1e70.web.app/) 
-* -->
+### Daily Dev Stats
+<a href="https://app.daily.dev/kevlawton"><img src="https://api.daily.dev/devcards/9838511bb6bc43d9a8d53c40ea77d05d.png?r=jh1" width="400" alt="Kevin Lawton's Dev Card"/></a>
 
 ### What I am learning/working on these days
    - Using efficient system design for quick launches </li>
