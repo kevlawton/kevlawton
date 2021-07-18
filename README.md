@@ -20,7 +20,7 @@ I enjoy Startups and intrapreneurial Enterprise teams. Curently wearing many hat
    - AWS vs Azure 
    - Engineering at <a href="https://stonkleague.com">StonkLeague!</a> :100: 
 
-### GitHub Stats
+### GitHub Public Repo Stats
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevlawton&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/kevlawton/github-readme-stats)
 
 ### The Daily Dev 
