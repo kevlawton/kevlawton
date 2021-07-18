@@ -14,13 +14,12 @@ Wearing many hats to help my teams launch quickly and efficiently. I enjoy entre
 -->
 
 ### Daily Dev Stats
-<a href="https://app.daily.dev/kevlawton"><img src="https://api.daily.dev/devcards/9838511bb6bc43d9a8d53c40ea77d05d.png?r=jh1" width="400" alt="Kevin Lawton's Dev Card"/></a>
+<a href="https://app.daily.dev/kevlawton"><img src="https://api.daily.dev/devcards/9838511bb6bc43d9a8d53c40ea77d05d.png?r=jh1" width="300" alt="Kevin Lawton's Dev Card"/></a>
 
-### What I am learning/working on these days
-   - Using efficient system design for quick launches </li>
-   - Vue3 vs Blazor WebAssembly C# </li>
-   - Azure vs GCP vs AWS </li>
-   - Build vs Buy: Evaluating so...many...UI toolkits
+### What I am working on these days
+   - Efficient system design for quick product launches </li>
+   - Svelte and Blazor </li>
+   - AWS vs Azure </li>
    - Engineering at <a href="https://stonkleague.com">StonkLeague!</a> </li>
   
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevlawton&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/kevlawton/github-readme-stats)
