@@ -23,7 +23,7 @@ I enjoy Startups and intrapreneurial Enterprise teams. Curently wearing many hat
 ### GitHub Public Repo Stats
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevlawton&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/kevlawton/github-readme-stats)
 
-### The Daily Dev 
+### Live Daily.Dev Stats
 <a href="https://app.daily.dev/kevlawton"><img src="https://api.daily.dev/devcards/9838511bb6bc43d9a8d53c40ea77d05d.png?r=jh1" width="300" alt="Kevin Lawton's Dev Card"/></a>
 
 <!-- 
