@@ -16,9 +16,8 @@ I enjoy Startups and intrapreneurial Enterprise teams. Curently wearing many hat
 
 ### What I am working on these days
    - Efficient system design for quick product launches 
-   - Svelte and Blazor 
-   - AWS vs Azure 
-   - Engineering at <a href="https://stonkleague.com">StonkLeague!</a> :100: 
+   - Vue and Blazor 
+   - AWS and Azure 
 
 ### GitHub Public Repo Stats
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevlawton&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/kevlawton/github-readme-stats)
