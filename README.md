@@ -16,8 +16,9 @@ I enjoy Startups and intrapreneurial Enterprise teams. Curently wearing many hat
 
 ### What I am working on these days
    - Efficient system design for quick product launches 
-   - Vue and Blazor 
-   - AWS and Azure 
+   - Frontend with Vue and Blazor 
+   - AWS and Azure IaaS/PaaS
+   - Serverless Backends with Python and Go
 
 ### GitHub Public Repo Stats
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevlawton&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/kevlawton/github-readme-stats)
