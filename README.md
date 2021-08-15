@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I enjoy Startups and intrapreneurial Enterprise teams. Curently wearing many hats to help my team launch quickly and efficiently. 
+I enjoy Startups and intrapreneurial Enterprise teams. Currently wearing many hats to help my team launch quickly and efficiently. 
  
 ### What have I worked with?
 <p>
