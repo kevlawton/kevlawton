@@ -21,11 +21,10 @@ I enjoy Startups and intrapreneurial Enterprise teams. Currently wearing many ha
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kevlawton&count_private=true&theme=tokyonight&showicons=true)]()
 
-### What I am working on these days
+### What I am working on these days...
+   - Frontend with NextJS/React
+   - AWS and Google Cloud Serverless Backends with Python and Node.js
    - Efficient system design for quick product launches 
-   - Frontend with Vue and Blazor 
-   - AWS and Azure IaaS/PaaS
-   - Serverless Backends with Python and Go
 
 ### Live Daily.Dev Stats
 <a href="https://app.daily.dev/kevlawton"><img src="https://api.daily.dev/devcards/9838511bb6bc43d9a8d53c40ea77d05d.png?r=jh1" width="300" alt="Kevin Lawton's Dev Card"/></a>
