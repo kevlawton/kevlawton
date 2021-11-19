@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I enjoy Startups and "Intrapreneurial Enterprise" teams. Currently wearing many hats to help my team launch quickly and efficiently. 
+I enjoy Startups and "Intrapreneurial Enterprise" teams. I'm usually covering several roles from Certified Scrum Master to Developer - whatever is needed to help my team launch quickly and efficiently. 
  
 ### What have I worked with?
 <p>
