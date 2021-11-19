@@ -12,15 +12,16 @@ I enjoy Startups and intrapreneurial Enterprise teams. Currently wearing many ha
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="GoLang" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=golang&logoColor=white" />
-  <img alt="Solidity" src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-blue?style=flat-square&logo=solidity&logoColor=white" />
 </p>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kevlawton&count_private=true&theme=tokyonight&showicons=true)]()
 
 ### What I am working on these days...
-   - Frontend with NextJS/React
+   - Solidity and EVM ecosystem
    - AWS and Google Cloud IAAS and PAAS
    - System design for quick yet security focused product launches
-
+   - NextJS/React and Svelte
+   
 ### Live Daily.Dev Stats
 <a href="https://app.daily.dev/kevlawton"><img src="https://api.daily.dev/devcards/9838511bb6bc43d9a8d53c40ea77d05d.png?r=jh1" width="300" alt="Kevin Lawton's Dev Card"/></a>
